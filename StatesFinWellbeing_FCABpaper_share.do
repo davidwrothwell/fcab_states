@@ -13,8 +13,7 @@ estimates clear
 * By David Rothwell, w/ Leanne Giordono and Rob Stawski
 * Created May 5, 2020
 * Updated Sept 15, 2021
-* This code builds on a separate analysis that was created for the 2020 FCAB 
-* Convening, that do file can be found in this project folder 
+
 ********************************************************************************
 
 * IMPORT FINRA TRACKING DATA
